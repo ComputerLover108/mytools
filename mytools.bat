@@ -1,0 +1,1 @@
+set PATH=e:\public\mytools\x64;e:\public\mytools\x64\vim;e:\public\mytools\x86;%path%;
