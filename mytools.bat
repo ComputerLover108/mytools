@@ -1,1 +1,3 @@
-set PATH=e:\public\mytools\x64;e:\public\mytools\x64\vim;e:\public\mytools\x86;%path%;
+set PATH=%~dp0x64;%~dp0x64\vim;%~dp0x86;%path%;
+e:
+cd e:\public\test
