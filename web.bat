@@ -7,3 +7,4 @@ set path=%PGHOME%\bin;%path%;
 pg_ctl -D  %PGDATA% stop
 pg_ctl -D  %PGDATA% start
 
+set PATH=e:\public\program\python34;e:\public\program\python34\Scripts;%path%;
